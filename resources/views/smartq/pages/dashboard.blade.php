@@ -1,0 +1,1 @@
+<x-smartq-layout></x-smartq-layout>
